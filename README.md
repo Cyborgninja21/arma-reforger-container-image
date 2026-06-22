@@ -1,5 +1,5 @@
-> **⚠️ Private homelab fork.** This is `Cyborgninja21/arma-reforger-container-image`, a
-> private mirror of [`RouHim/arma-reforger-container-image`](https://github.com/RouHim/arma-reforger-container-image)
+> **⚠️ Homelab fork.** This is `Cyborgninja21/Utumno-arma-reforger`, a
+> mirror of [`RouHim/arma-reforger-container-image`](https://github.com/RouHim/arma-reforger-container-image)
 > (all credit to RouHim — upstream ships no license). The point of the fork is
 > **supply-chain control** (our own CI + Trivy gates + Renovate), not secrecy —
 > the image carries no secrets, so like the Conan/Palworld images it stays public.
